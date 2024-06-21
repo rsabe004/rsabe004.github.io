@@ -12,7 +12,7 @@ Hi! My name is Rania Saber and I am a recent June 2024 grad from the University 
 
 ## About My Mentor
 
-My DREU mentor is Anna Fariha, an Assistant Professor at Kahlert School of Computing, the University of Utah. She co-leads the Data Management Research Center for Human-centered, Efficient, and Scalable Systems. For more information, you can visit her site: https://afariha.github.io/ 
+My DREU mentor is Anna Fariha, an Assistant Professor at Kahlert School of Computing, the University of Utah. She co-leads the Data Management Research Center for Human-centered, Efficient, and Scalable Systems. For more information, you can visit her [site here.](https://afariha.github.io/) 
 
 ## About My Project
 
