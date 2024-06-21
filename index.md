@@ -8,11 +8,11 @@ title: Summer 2024 DREU Project Site
 
 ## About Me
 
-Hi! My name is Rania Saber and I am a recent June 2024 grad from the University of California, Riverside with a B.S. in Computer Science and minor in Psychology. I have a great interest in data, human-computer interaction, and design. I plan on pursuing a Master's in either HCI or data after my gap year. 
+Hi! My name is Rania Saber and I am a recent June 2024 grad from the University of California, Riverside with a B.S. in Computer Science and minor in Psychology. I have a great interest in data, human-computer interaction, and design. I plan on pursuing a Master's in either HCI or data after my gap year. In my free time, I enjoy sketching, playing tennis, and listening to a variety of different genres of music.
 
 ## About My Mentor
 
-My DREU mentor is Anna Fariha, an Assistant Professor at Kahlert School of Computing, the University of Utah. She co-leads the Data Management Research Center for Human-centered, Efficient, and Scalable Systems. For more information, you can visit her site: https://afariha.github.io/ 
+My DREU mentor is Anna Fariha, an Assistant Professor at Kahlert School of Computing, the University of Utah. She co-leads the Data Management Research Center for Human-centered, Efficient, and Scalable Systems. For more information, you can visit her [site here.](https://afariha.github.io/) 
 
 ## About My Project
 
