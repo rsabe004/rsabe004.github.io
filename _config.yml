@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Rania Saber
 
 # Short bio or description (displayed in the header)
-description: Summer 2020 DREU Project
+description: Summer 2024 DREU Project
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/myimage.JPG
+avatar: https://github.com/rsabe004/rsabe004.github.io/blob/master/images/myimage.JPG
 
 #
 # Flags below are optional
@@ -18,10 +18,10 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/my
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: yourmail@mail.com
+  email: rsabe004@ucr.edu
   facebook:
   flickr:
-  rss: # just type anything here for a working RSS icon
+  rss: aa # just type anything here for a working RSS icon
 
 # Your website URL (e.g. http://ajstent.github.io)
 # Used for Sitemap.xml and your RSS feed
