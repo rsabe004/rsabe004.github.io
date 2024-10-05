@@ -64,7 +64,7 @@ html {
 }
 
 body {
-  background: #f0f0f0;
+  background: #fff;
   font: 18px/1.4 "Open Sans", Arial, sans-serif;
   color: #333;
 }
@@ -78,7 +78,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Roboto", Arial, sans-serif;
-  color: #004b06;
+  color: #222;
   font-weight: bold;
   line-height: 1.7;
   margin: 1em 0 15px;

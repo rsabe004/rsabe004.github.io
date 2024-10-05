@@ -18,7 +18,7 @@ My DREU mentor is Anna Fariha, an Assistant Professor at Kahlert School of Compu
 
 My research project with Dr. Fariha focuses on investigating data usability and developing methods to enhance data utility for users. This involves identifying challenges users face when creating data visualizations and documenting the solutions we implement to address these challenges. Subsequently, we aim to devise automated solutions to streamline these fixes, ultimately simplifying the data visualization process for users.
 
-[My Final Report](files/finalreport.pdf) Coming soon!
+[My Final Report](files/finalreport.pdf) 
 
 
 [My Research Journal](https://docs.google.com/document/d/1CjSX7KNaK3mmlgnfPw0etAUquP2Ghmer9L3EZvUe3rU/edit)
